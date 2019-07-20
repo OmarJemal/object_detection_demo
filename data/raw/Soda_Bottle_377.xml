@@ -1,0 +1,26 @@
+<annotation>
+	<folder>google_images_soda_Bottles_dataset</folder>
+	<filename>Soda_Bottle_377.jpg</filename>
+	<path>C:\Users\omar\Downloads\ML_datasets\google_images_soda_Bottles_dataset\Soda_Bottle_377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>27</ymin>
+			<xmax>572</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+</annotation>

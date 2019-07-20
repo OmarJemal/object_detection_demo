@@ -1,0 +1,62 @@
+<annotation>
+	<folder>google_images_soda_cans_dataset</folder>
+	<filename>Soda_Can_231.jpg</filename>
+	<path>C:\Users\omar\Downloads\ML_datasets\google_images_soda_cans_dataset\Soda_Can_231.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>92</ymin>
+			<xmax>831</xmax>
+			<ymax>1799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>56</ymin>
+			<xmax>1297</xmax>
+			<ymax>1875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1210</xmin>
+			<ymin>77</ymin>
+			<xmax>1825</xmax>
+			<ymax>1835</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1748</xmin>
+			<ymin>54</ymin>
+			<xmax>2431</xmax>
+			<ymax>1877</ymax>
+		</bndbox>
+	</object>
+</annotation>

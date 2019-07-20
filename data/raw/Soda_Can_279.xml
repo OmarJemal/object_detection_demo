@@ -1,0 +1,26 @@
+<annotation>
+	<folder>google_images_soda_cans_dataset</folder>
+	<filename>Soda_Can_279.jpg</filename>
+	<path>C:\Users\omar\Downloads\ML_datasets\google_images_soda_cans_dataset\Soda_Can_279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>651</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
