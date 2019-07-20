@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>7.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\7.jpg</path>
+	<path>C:\Users\omar\Downloads\Recycling_ML\object_detection_demo\data\images\7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,87 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>Glass bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>48</ymin>
-			<xmax>300</xmax>
-			<ymax>218</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>452</xmin>
-			<ymin>299</ymin>
-			<xmax>618</xmax>
-			<ymax>453</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>56</xmin>
-			<ymin>373</ymin>
-			<xmax>210</xmax>
-			<ymax>476</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>18</xmin>
-			<ymin>20</ymin>
+			<xmin>6</xmin>
+			<ymin>205</ymin>
 			<xmax>159</xmax>
-			<ymax>154</ymax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>Glass bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>236</ymin>
-			<xmax>689</xmax>
-			<ymax>364</ymax>
+			<xmin>176</xmin>
+			<ymin>193</ymin>
+			<xmax>355</xmax>
+			<ymax>561</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>Glass bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>257</ymin>
-			<xmax>231</xmax>
-			<ymax>340</ymax>
+			<xmin>292</xmin>
+			<ymin>194</ymin>
+			<xmax>388</xmax>
+			<ymax>339</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>Glass bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>208</xmin>
-			<ymin>261</ymin>
-			<xmax>281</xmax>
-			<ymax>325</ymax>
+			<xmin>335</xmin>
+			<ymin>205</ymin>
+			<xmax>504</xmax>
+			<ymax>556</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>Glass bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>325</ymin>
-			<xmax>245</xmax>
-			<ymax>404</ymax>
+			<xmin>431</xmin>
+			<ymin>190</ymin>
+			<xmax>564</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Glass bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>203</ymin>
+			<xmax>704</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Glass bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>648</xmin>
+			<ymin>190</ymin>
+			<xmax>800</xmax>
+			<ymax>520</ymax>
 		</bndbox>
 	</object>
 </annotation>
